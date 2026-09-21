@@ -2,4 +2,4 @@
 
 PROYECTO COLIBRÍ
 
-Author: Joseph Edward Hidalgo Martel
+Author: Hidalgo Martel, Joseph Edward
